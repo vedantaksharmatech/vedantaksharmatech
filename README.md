@@ -98,7 +98,6 @@ status:
 <p>
   <img src="https://img.shields.io/badge/SAP_ABAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP"/>
   <img src="https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA Cloud"/>
-  <img src="https://img.shields.io/badge/SAP_BTP-0070F3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP"/>
 </p>
 
 </div>
