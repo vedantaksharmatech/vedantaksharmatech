@@ -87,7 +87,6 @@ status:
 <p>
   <img src="https://img.shields.io/badge/Flask_REST_APIs-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -137,10 +136,10 @@ status:
         <img src="https://img.shields.io/badge/Status-Ongoing_(50%25)-blue?style=for-the-badge" alt="Status"/>
       </p>
       <p>
-        Multi-tenant compliance & geospatial tracking platform connecting CSR entities with verified NGOs. Built using <b>Next.js 16 (App Router)</b>, <b>React 19</b>, <b>Tailwind CSS v4</b>, Framer Motion, and Supabase/Firebase.
+        Multi-tenant compliance & geospatial tracking platform connecting CSR entities with verified NGOs. Built using <b>Next.js 16 (App Router)</b>, <b>React 19</b>, <b>Tailwind CSS v4</b>, Framer Motion, and Firebase.
       </p>
       <p>
-        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind v4</code> <code>Supabase</code>
+        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind v4</code> <code>Firebase</code>
       </p>
     </td>
     <td width="50%">
