@@ -173,10 +173,10 @@ status:
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-stats-extended.vercel.app/api?username=vedantaksharmatech&show_icons=true&theme=radical&bg_color=0F172A&title_color=00F5D4&text_color=E2E8F0&icon_color=7B2CBF&border_color=1E293B&hide_border=false" alt="Vedant's GitHub Stats"/>
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=vedantaksharmatech&show_icons=true&theme=radical&bg_color=0F172A&title_color=00F5D4&text_color=E2E8F0&icon_color=7B2CBF&border_color=1E293B&hide_border=false" alt="Vedant's GitHub Stats"/>
       </td>
       <td>
-        <img height="185em" src="https://streak-stats.demolab.com/?user=vedantaksharmatech&theme=radical&background=0F172A&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4&border=1E293B&hide_border=false" alt="Vedant's GitHub Streak"/>
+        <img height="180" src="https://streak-stats.demolab.com/?user=vedantaksharmatech&theme=radical&hide_border=false" alt="Vedant's GitHub Streak"/>
       </td>
     </tr>
   </table>
