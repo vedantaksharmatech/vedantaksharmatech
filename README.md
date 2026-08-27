@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:7B2CBF&height=220&section=header&text=VEDANT%20SHARMA&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=%E2%88%B4%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Java%20%26%20Python%20Developer%20%E2%88%B5&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/vedantaksharmatech/vedantaksharmatech/main/assets/header.svg" width="100%" alt="Vedant Sharma Banner"/>
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/vedantaksharmatech">
@@ -209,6 +209,6 @@ status:
 
   <br/><br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F5D4&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://raw.githubusercontent.com/vedantaksharmatech/vedantaksharmatech/main/assets/footer.svg" width="100%" alt="Footer Banner"/>
 
 </div>
